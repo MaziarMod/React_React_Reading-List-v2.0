@@ -2,7 +2,7 @@
 
 Users are going to be able to use our application to put together a list of books that they would like to read.
 
-Data Persistence with API Requests
+**Data Persistence with API Requests**
 
 ## How to run
 
